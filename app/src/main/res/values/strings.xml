@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">randomizer</string>
+    <string name="button_text">Zufälliges Item</string>
+    <string name="selected_item_text">Ich bin ich und du bist du!</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="item5">Item5</string>
+    <string name="item6">Item6</string>
+    <string name="item7">Item7</string>
+    <string name="item8">Item8</string>
+    <string name="item9">Item9</string>
+    <string name="item10">Item10</string>
+</resources>
